@@ -1,1 +1,1 @@
-
+In file extract_traffic_data.py you can find the python script which calls HERE API with app credentials created. It proccesses and transforms the retreived traffic speed data for Berlin Mitte, and exports a .csv file with langitude, longitude and the traffic jam level (speeds). The file can be uploaded to kepler.gl in order to visualize the traffic data.
